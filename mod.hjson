@@ -1,0 +1,6 @@
+name: "kokotik"
+displayName: "kokotik"
+description: "Huge Mindustry mod that expands end game content with new materials, units and turrets."
+author: matus
+minGameVersion: 124
+version: 1.4.2
